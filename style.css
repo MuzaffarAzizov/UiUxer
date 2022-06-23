@@ -519,3 +519,84 @@
   padding: 20px;
   margin-right: 70px;
 }
+
+.thanks {
+  margin-top: 5%;
+  background-image: url(./images/thanks.png);
+}
+
+hr {
+  background: #d092ba;
+}
+
+.touch {
+  text-align: center;
+}
+
+.footer {
+  margin-top: 50px;
+}
+
+.ux {
+  display: flex;
+  float: left;
+  width: 40%;
+  background-image: url(./images/thanks.png);
+}
+
+.ux ul {
+  margin-left: 40px;
+  list-style-position: inside;
+}
+
+.ux ul li {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  letter-spacing: 0.4px;
+  color: #242f65;
+  list-style-type: none;
+  margin: 30px;
+}
+
+.interest {
+  background-image: url(./images/thanks.png);
+  width: 60%;
+  float: right;
+  background: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  margin-top: 40px;
+}
+
+.interest .write {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.4px;
+  color: #242f65;
+}
+
+.interest p {
+  font-family: 'Mulish';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.4px;
+  color: #ffffff;
+}
+
+.interest button {
+  background: #242f65;
+  border: 1px solid #242f65;
+  border-radius: 10px;
+  padding: 0px 30px;
+  display: flex;
+  margin-left: 20px;
+}
